@@ -15,6 +15,7 @@ A real-time chat application developed using PHP and JavaScript. This applicatio
 
 ```bash
 git clone https://github.com/halilsaral/ChatApp.git
+```
 
 2. Install a local server environment such as XAMPP, WAMP, or MAMP.
 
